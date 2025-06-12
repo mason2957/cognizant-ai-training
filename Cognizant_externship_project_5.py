@@ -16,9 +16,9 @@ def fibonacci(n): ## creating the fibonacci function
 def menu():
     while True:
         print("\nMENU:")
-        print("1. Calculate the factorial of a number")
-        print("2. Find the nth Fibonacci number")
-        print("3. Exit")
+        print("1. Calculate the factorial of a number!")
+        print("2. Find the nth Fibonacci number!")
+        print("3. Exit :(")
 
         choice = input("Enter your choice (1-3): ")
 
